@@ -5,3 +5,11 @@ Nvidia Stock Analysis Web Application: https://rahultg08-stock-analyser-app-fjlf
 
 Microsoft Stock Analysis Web Application: https://rahultg08-stock-analyser-app1-iqhsuv.streamlit.app/
 
+Run app directly using colab or run the app on any IDE like PyCharm
+
+## commands:
+
+streamlit run app.py and npx localtunnel --server.port 8501 (IDE)
+
+!streamlit run app.py & npx localtunnel --port 8501 (Colab)
+
