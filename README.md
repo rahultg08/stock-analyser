@@ -1,6 +1,7 @@
 # stock-analyser
 Web App that visualizes and analyzes stock prices and variations across years.
 
-Microsoft Stock Analysis Web Application
+Nvidia Stock Analysis Web Application: https://rahultg08-stock-analyser-app-fjlfyo.streamlit.app/
 
-NVidia Stock Analysis Web Application
+Microsoft Stock Analysis Web Application: https://rahultg08-stock-analyser-app1-iqhsuv.streamlit.app/
+
